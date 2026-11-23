@@ -627,21 +627,7 @@ public class Main {
 
  
 
-    static class Usuario {
-
-        String identificacion;
-        String nombre;
-        String contacto;
-
-        public Usuario(String identificacion, String nombre,
-                String contacto) {
-
-            this.identificacion = identificacion;
-            this.nombre = nombre;
-            this.contacto = contacto;
-        }
-    }
-
+  
  
 
     static class Libro {
