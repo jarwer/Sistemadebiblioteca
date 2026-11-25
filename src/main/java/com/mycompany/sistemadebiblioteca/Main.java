@@ -37,7 +37,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("\n===== SISTEMA DE BIBLIOTECA =====");
+            System.out.println("\n===== SISTEMA DE BIBLIOTECA NUEVA Y MEJORADA =====");
             System.out.println("1. Registrar usuario");
             System.out.println("2. Consultar usuarios");
             System.out.println("3. Registrar libro");
